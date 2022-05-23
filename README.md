@@ -1,4 +1,4 @@
-### Oi! Sou a Sabrina Pires 
+### Olá! Meu nome é Sabrina.
 
 - 😉 Procurando vaga de Desenvolvedor Front-End junior
 - 📚 Estudando tecnologias de Back-End
