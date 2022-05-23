@@ -1,13 +1,12 @@
 ### Oi! Sou a Sabrina Pires 
 
-- 🔭 Procurando vaga de Desenvolvedor Front-End junior
-- 🌱 Estudando tecnologias de Back-End
-- 😄 Pronouns: Ela/Dela
+- 😉 Procurando vaga de Desenvolvedor Front-End junior
+- 📚 Estudando tecnologias de Back-End
 
 <div align="center">
   <a href="https://github.com/sabrinapiress">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinapiress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapiress&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapiress&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
@@ -28,6 +27,6 @@
   <a href="https://www.linkedin.com/in/sabrina-caroline-pires-082292239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     ![Snake animation](https://github.com/sabrinapiress/sabrinapiress/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
-  
+ 
+  ##
