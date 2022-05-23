@@ -28,6 +28,5 @@
     
     
 </div>
-   ![Snake animation](https://github.com/sabrinapiress/sabrinapiress/blob/output/github-contribution-grid-snake.svg)
- 
+   
   ##
