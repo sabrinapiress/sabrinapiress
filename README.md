@@ -1,12 +1,16 @@
-### Olá! Meu nome é Sabrina.
+
+<!-- ![github-header-image](https://user-images.githubusercontent.com/99099328/173448421-8187c467-9357-45ae-9876-02be34a8c4a3.png) -->
+
+![github-header-image](https://user-images.githubusercontent.com/99099328/173450559-1ed964f0-e765-4ac3-a29a-9a34a29ae413.png)
+
+##
 
 <div align="center">
   <a href="https://github.com/sabrinapiress">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=sabrinapiress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapiress&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=sabrinapiress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinapiress&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
     
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     
