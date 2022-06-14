@@ -1,3 +1,8 @@
+<!-- ![github-header-image (1)](https://user-images.githubusercontent.com/99099328/173665478-27d621aa-0715-473d-a153-fc5199b084ba.png) -->
+![github-header-image (2)](https://user-images.githubusercontent.com/99099328/173665647-349e6689-dc1f-495c-93e0-8d6381d6f94d.png)
+
+
+##
 
 <div align="center">
   <a href="https://github.com/sabrinapiress">
@@ -24,10 +29,9 @@
   
   ##
   
- <div![github-header-image (6)](https://user-images.githubusercontent.com/99099328/173595181-f5df3bb3-bd84-48b2-9fb5-e5b8176f4c2a.png)
-> 
+ 
 <!--   <a href="https://instagram.com/_sabrinapires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:sabrinapires_@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"</a>
+  <a href = "mailto:sabrinapires_@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sabrina-caroline-pires-082292239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 
