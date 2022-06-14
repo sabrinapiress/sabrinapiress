@@ -1,9 +1,4 @@
 
-
-![github-header-image (4)](https://user-images.githubusercontent.com/99099328/173451024-c86f5f72-082f-4fa1-942f-48a4b5e1788e.png)
-
-##
-
 <div align="center">
   <a href="https://github.com/sabrinapiress">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=sabrinapiress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,7 +24,8 @@
   
   ##
   
- <div> 
+ <div![github-header-image (6)](https://user-images.githubusercontent.com/99099328/173595181-f5df3bb3-bd84-48b2-9fb5-e5b8176f4c2a.png)
+> 
 <!--   <a href="https://instagram.com/_sabrinapires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:sabrinapires_@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/sabrina-caroline-pires-082292239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
